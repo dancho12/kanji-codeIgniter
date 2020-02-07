@@ -54,4 +54,5 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['jlpt'] = 'jlpt';
-$route['jlpt/create'] = 'jlpt/create';
+$route['jlpt/update'] = 'update_v';
+$route['jlpt/update/f'] = 'update';
