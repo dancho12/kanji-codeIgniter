@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>JLPT N4</title>
     <meta name="description" content="JLPT N4">
-    <link rel="stylesheet" href="/kanji-codeIgniter/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
 
 </head>
 
